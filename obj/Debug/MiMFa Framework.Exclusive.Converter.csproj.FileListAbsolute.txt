@@ -1,0 +1,20 @@
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Debug\itextsharp.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Debug\MiMFa Framework.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Debug\System.Data.SQLite.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Debug\MiMFa Framework.pdb
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\obj\Debug\MiMFa Framework.Exclusive.Converter.csprojResolveAssemblyReference.cache
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Debug\MiMFa Framework.Convert.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Debug\MiMFa Framework.Convert.pdb
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\obj\Debug\MiMFa Framework.Convert.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\obj\Debug\MiMFa Framework.Convert.pdb
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\obj\Debug\Interop.MsoEuro.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\obj\Debug\MiMFa Framework.Exclusive.Converter.csproj.ResolveComReference.cache
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Debug\Aspose.Words.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Debug\Devart.Data.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Debug\Devart.Data.SQLite.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Debug\EntityFramework.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Debug\MiMFa Framework.Converter.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Debug\SharpZipLib.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Debug\System.Data.SQLite.EF6.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Debug\System.Data.SQLite.Linq.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Debug\MiMFa Framework.Converter.pdb

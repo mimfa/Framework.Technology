@@ -1,0 +1,10 @@
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Release\MiMFa Framework.Converter.pdb
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Release\MiMFa Framework.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Release\MiMFa Framework.pdb
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\obj\Release\MiMFa Framework.Exclusive.Converter.csprojResolveAssemblyReference.cache
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Release\MiMFa Framework.Convert.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\bin\Release\MiMFa Framework.Convert.pdb
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\obj\Release\Interop.MsoEuro.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\obj\Release\MiMFa Framework.Exclusive.Converter.csproj.ResolveComReference.cache
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\obj\Release\MiMFa Framework.Convert.dll
+D:\MiMFa\My Product\Software\Technology\MiMFa Framework\MiMFa Framework\Converter\obj\Release\MiMFa Framework.Convert.pdb
