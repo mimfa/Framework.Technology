@@ -42,6 +42,7 @@ D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\De
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Data.SQLite.Linq.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Memory.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\HtmlAgilityPack.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\MiMFa Framework.pdb
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\MiMFa Framework.dll.config
@@ -58,4 +59,3 @@ D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\De
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa.Technology.csproj.CopyComplete
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa Framework.Technology.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa Framework.Technology.pdb
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
