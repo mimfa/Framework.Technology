@@ -30,7 +30,6 @@ D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\De
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Devart.Data.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Devart.Data.SQLite.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\EntityFramework.dll
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Fizzler.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\itextsharp.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\MiMFa Framework.Converter.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\MiMFa Framework.dll
@@ -41,16 +40,10 @@ D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\De
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Data.SQLite.EF6.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Data.SQLite.Linq.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Memory.dll
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\HtmlAgilityPack.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\MiMFa Framework.pdb
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\MiMFa Framework.dll.config
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Fizzler.pdb
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Svg.xml
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Buffers.xml
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Memory.xml
-D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\HtmlAgilityPack.pdb
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\HtmlAgilityPack.xml
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa.Technology.csproj.AssemblyReference.cache
@@ -59,3 +52,37 @@ D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\De
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa.Technology.csproj.CopyComplete
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa Framework.Technology.dll
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa Framework.Technology.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\MiMFa Framework.Technology.dll.config
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\MiMFa Framework.Technology.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\MiMFa Framework.Technology.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Aspose.Words.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Devart.Data.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Devart.Data.SQLite.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\EntityFramework.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\itextsharp.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\MiMFa Framework.Converter.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\MiMFa Framework.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\SharpZipLib.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Svg.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Buffers.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Data.SQLite.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Memory.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\HtmlAgilityPack.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\MiMFa Framework.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\MiMFa Framework.dll.config
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Svg.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\HtmlAgilityPack.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\HtmlAgilityPack.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa.Technology.csprojAssemblyReference.cache
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa.Technology.csproj.ResolveComReference.cache
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa.Technology.csproj.CoreCompileInputs.cache
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa.Technology.csproj.CopyComplete
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa Framework.Technology.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa Framework.Technology.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Fizzler.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Fizzler.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Memory.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml

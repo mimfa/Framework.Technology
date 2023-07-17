@@ -142,7 +142,7 @@ namespace MiMFa.Exclusive.Technology.Excel
         }
         public virtual IEnumerable<SmartTable> ToSmartTables(string exceladdress, int startRecord = 0, int maxRecord = -1, string condition = "")
         {
-            return ConvertService.ToMiMFaTables(exceladdress, startRecord, maxRecord, condition);
+            return ConvertService.ToSmartTables(exceladdress, startRecord, maxRecord, condition);
         }
         public virtual IEnumerable<string> ToSheets(string exceladdress)
         {

@@ -39,3 +39,27 @@ D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Re
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\System.Buffers.xml
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\System.Memory.xml
 D:\MiMFa\My Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\MiMFa Framework.Technology.dll.config
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\MiMFa Framework.Technology.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\MiMFa Framework.Technology.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\MiMFa Framework.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\Svg.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\System.Buffers.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\System.Memory.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\HtmlAgilityPack.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\MiMFa Framework.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\MiMFa Framework.dll.config
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\Fizzler.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\Svg.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\HtmlAgilityPack.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\HtmlAgilityPack.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Release\MiMFa.Technology.csprojAssemblyReference.cache
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Release\MiMFa.Technology.csproj.ResolveComReference.cache
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Release\MiMFa.Technology.csproj.CoreCompileInputs.cache
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Release\MiMFa.Technology.csproj.CopyComplete
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Release\MiMFa Framework.Technology.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Release\MiMFa Framework.Technology.pdb
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\Fizzler.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Release\System.Memory.xml
