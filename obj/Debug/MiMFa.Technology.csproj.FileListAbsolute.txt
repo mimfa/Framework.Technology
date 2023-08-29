@@ -75,7 +75,6 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\MiMFa
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Svg.xml
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\HtmlAgilityPack.pdb
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\HtmlAgilityPack.xml
-D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa.Technology.csprojAssemblyReference.cache
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa.Technology.csproj.ResolveComReference.cache
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa.Technology.csproj.CoreCompileInputs.cache
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa.Technology.csproj.CopyComplete
@@ -86,3 +85,5 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Syste
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Fizzler.pdb
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Memory.xml
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa.Technology.csproj.AssemblyReference.cache
