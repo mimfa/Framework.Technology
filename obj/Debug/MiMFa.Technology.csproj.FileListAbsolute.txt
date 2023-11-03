@@ -87,3 +87,4 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Syste
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\obj\Debug\MiMFa.Technology.csproj.AssemblyReference.cache
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\Microsoft.mshtml.dll
