@@ -11,6 +11,7 @@ using System.IO.Compression;
 using System.Xml;
 using System.Text;
 using MiMFa.Model.IO;
+using System.Drawing;
 
 namespace MiMFa.Exclusive.Technology
 {

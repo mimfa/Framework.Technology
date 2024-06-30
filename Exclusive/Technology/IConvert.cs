@@ -6,6 +6,7 @@ using MiMFa.Model;
 using System.Windows.Forms;
 using System.Data.OleDb;
 using MiMFa.General;
+using System.Drawing;
 
 namespace MiMFa.Exclusive.Technology
 {
