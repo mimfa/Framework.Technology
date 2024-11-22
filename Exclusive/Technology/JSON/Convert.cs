@@ -69,10 +69,12 @@ namespace MiMFa.Exclusive.Technology.JSON
         public string Pair(string key, IEnumerable<string> values) => string.Join(":", Normalize(key), Collect(values));
         public string Pair(string key, string value) => string.Join(":", Normalize(key), Normalize(value));
         public string Pair(string key, object value) => string.Join(":", Normalize(key), Normalize(value));
-        public string Normalize(string value) => string.Join("", "\"", (value??"").Replace("\\", "\\\\").Replace("\"", "\\\""), "\"");
-        public string Normalize(object value) => value + "";
         public string Collect(IEnumerable<string> values) => "[" + string.Join(",", values) + "]";
         public string Encapsulate(IEnumerable<string> kvps) => "{" + string.Join(",", kvps) + "}";
         public string Encapsulate(params string[] kvps) => "{" + string.Join(",", kvps) + "}";
+        public string Normalize(string value) => string.Join("", "\"", (value??"").Replace("\\", "\\\\").Replace("\"", "\\\""), "\"");
+        public string Normalize(bool value) => value?"true":"false";
+        public string Normalize(object value) => value + "";
+
     }
 }
