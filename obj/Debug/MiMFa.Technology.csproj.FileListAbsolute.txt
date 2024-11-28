@@ -185,3 +185,4 @@ D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\ExCSS
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Numerics.Vectors.dll
 D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Numerics.Vectors.xml
+D:\Product\Technology\MiMFa Framework\MiMFa Framework\Technology\bin\Debug\System.Drawing.Common.dll

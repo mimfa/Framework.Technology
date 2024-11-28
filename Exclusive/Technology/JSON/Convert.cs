@@ -2,6 +2,7 @@
 using MiMFa.Model.IO;
 using MiMFa.Service;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -62,19 +63,23 @@ namespace MiMFa.Exclusive.Technology.JSON
 
 
         public string Pair(string key, IEnumerable<IEnumerable<KeyValuePair<string, string>>> kvpscollection) => string.Join(":", Normalize(key), Pair(kvpscollection));
-        public string Pair(IEnumerable<IEnumerable<KeyValuePair<string, string>>> kvpscollection) => Collect(from v in kvpscollection select Pair(v));
+        public string Pair(IEnumerable<IEnumerable<KeyValuePair<string, string>>> kvpscollection) => "[" + string.Join(",", from v in kvpscollection select Pair(v)) + "]";
         public string Pair(string key, IEnumerable<KeyValuePair<string, string>> kvps) => string.Join(":", Normalize(key), Pair(kvps));
-        public string Pair(IEnumerable<KeyValuePair<string, string>> kvps) => Encapsulate(from v in kvps select Pair(v));
+        public string Pair(IEnumerable<KeyValuePair<string, string>> kvps) => "{" + string.Join(",", from v in kvps select Pair(v)) + "}";
         public string Pair(KeyValuePair<string, string> kvp) => Pair(kvp.Key, kvp.Value);
         public string Pair(string key, IEnumerable<string> values) => string.Join(":", Normalize(key), Collect(values));
         public string Pair(string key, string value) => string.Join(":", Normalize(key), Normalize(value));
         public string Pair(string key, object value) => string.Join(":", Normalize(key), Normalize(value));
-        public string Collect(IEnumerable<string> values) => "[" + string.Join(",", values) + "]";
-        public string Encapsulate(IEnumerable<string> kvps) => "{" + string.Join(",", kvps) + "}";
-        public string Encapsulate(params string[] kvps) => "{" + string.Join(",", kvps) + "}";
+        public string Collect(IEnumerable<string> values) => "[" + string.Join(",", from v in values select Normalize(v)) + "]";
+        public string Encapsulate(IEnumerable<string> kvps) => "{" + string.Join(",", from v in kvps select Normalize(v)) + "}";
+        public string Encapsulate(params string[] kvps) => "{" + string.Join(",", from v in kvps select Normalize(v)) + "}";
         public string Normalize(string value) => string.Join("", "\"", (value??"").Replace("\\", "\\\\").Replace("\"", "\\\""), "\"");
-        public string Normalize(bool value) => value?"true":"false";
-        public string Normalize(object value) => value + "";
+        public string Normalize(object value) =>
+            value == null ? "null" :
+            value is string ? Normalize((string)value) :
+            value is bool ? value.ToString().ToLower() :
+            value is IEnumerable ? "[" + string.Join(",", Statement.Loop((IEnumerable)value, (v) => Normalize(v))) + "]" :
+            value + "";
 
     }
 }
